@@ -1,3 +1,14 @@
+## Status
+
+Backend is functional — layered architecture, Gemini API integration, and REST 
+endpoints are implemented and tested locally. Frontend UI is scaffolded (HTML/CSS 
+structure in place) and is currently being wired up to the backend APIs.
+
+**Currently working on:** connecting the dashboard UI to live API responses, 
+and polishing the chat/research view.
+
+
+
 # Smart Research Assistant
 
 An AI-powered research assistant backend built with **Java 21**, **Spring Boot 3**, and the **Gemini API**, designed to accept natural language research questions and return structured answers with summaries, key points, and follow-up questions.
