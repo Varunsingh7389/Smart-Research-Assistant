@@ -1,4 +1,4 @@
-## Status
+# Status
 
 Backend is functional — layered architecture, Gemini API integration, and REST 
 endpoints are implemented and tested locally. Frontend UI is scaffolded (HTML/CSS 
